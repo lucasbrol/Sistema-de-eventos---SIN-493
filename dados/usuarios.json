@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nome": "Usuário Teste",
+        "email": "teste@ufv.br",
+        "senha": "$2y$10$Nr1AHdbc2vPkN1pXvhQpeO6UlOWGfIOaZRKnWZ2mRJ2R5h6ZcL7KK",
+        "criado_em": "2026-11-25 20:00:00"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nome": "Palestra: Carreira em Tecnologia",
+        "descricao": "Bate-papo com profissionais da área sobre os caminhos de carreira em desenvolvimento, dados e gestão de projetos. Ao final haverá um momento para perguntas.",
+        "data": "2026-12-08",
+        "horario": "19:00",
+        "local": "Auditório Central - UFV Rio Paranaíba",
+        "criado_por": 1,
+        "criado_em": "2026-11-25 20:00:00"
+    },
+    {
+        "id": 2,
+        "nome": "Oficina de Git e GitHub",
+        "descricao": "Oficina prática sobre versionamento: criação de repositórios, commits, branches e pull requests. Traga seu notebook com o Git instalado.",
+        "data": "2026-12-10",
+        "horario": "14:00",
+        "local": "Laboratório de Informática 2",
+        "criado_por": 1,
+        "criado_em": "2026-11-25 20:00:00"
+    },
+    {
+        "id": 3,
+        "nome": "Minicurso de PHP para Iniciantes",
+        "descricao": "Minicurso de 3 horas cobrindo variáveis, formulários, sessões e leitura de arquivos JSON com PHP puro.",
+        "data": "2026-12-15",
+        "horario": "08:30",
+        "local": "Sala 105 - Prédio de Sistemas de Informação",
+        "criado_por": 1,
+        "criado_em": "2026-11-25 20:00:00"
+    },
+    {
+        "id": 4,
+        "nome": "Apresentação dos Trabalhos Finais de SIN 493",
+        "descricao": "Apresentação dos sistemas desenvolvidos pelos grupos da disciplina de Introdução à Programação Web.",
+        "data": "2026-12-17",
+        "horario": "10:00",
+        "local": "Sala 201 - Pavilhão de Aulas",
+        "criado_por": 1,
+        "criado_em": "2026-11-25 20:00:00"
+    },
+    {
+        "id": 5,
+        "nome": "Reunião do Centro Acadêmico",
+        "descricao": "Reunião aberta para discutir o calendário de atividades do próximo semestre.",
+        "data": "2026-11-20",
+        "horario": "18:00",
+        "local": "Sala do Centro Acadêmico",
+        "criado_por": 1,
+        "criado_em": "2026-11-10 20:00:00"
+    }
+]
